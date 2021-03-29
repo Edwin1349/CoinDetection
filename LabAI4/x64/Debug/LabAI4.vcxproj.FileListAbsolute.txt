@@ -1,0 +1,2 @@
+C:\Users\Orest\source\repos\LabAI4\x64\Debug\LabAI4.exe
+C:\Users\Orest\source\repos\LabAI4\x64\Debug\LabAI4.pdb
